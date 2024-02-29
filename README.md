@@ -1,4 +1,4 @@
-Meshtastic Canada
+Meshtastic Canada - http://www.meshtastic.ca/
 -----
 
 Our home is on the West Coast, near Vancouver BC.
